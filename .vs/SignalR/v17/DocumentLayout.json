@@ -1,0 +1,88 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "C:\\Users\\amro7\\Desktop\\training Csharp\\SignalR\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{0DE91821-4D6D-40FA-A236-64095581783A}|SignalR\\SignalR.csproj|c:\\users\\amro7\\desktop\\training csharp\\signalr\\signalr\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{0DE91821-4D6D-40FA-A236-64095581783A}|SignalR\\SignalR.csproj|solutionrelative:signalr\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{0DE91821-4D6D-40FA-A236-64095581783A}|SignalR\\SignalR.csproj|c:\\users\\amro7\\desktop\\training csharp\\signalr\\signalr\\startup.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{0DE91821-4D6D-40FA-A236-64095581783A}|SignalR\\SignalR.csproj|solutionrelative:signalr\\startup.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{0DE91821-4D6D-40FA-A236-64095581783A}|SignalR\\SignalR.csproj|c:\\users\\amro7\\desktop\\training csharp\\signalr\\signalr\\chat.html||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{0DE91821-4D6D-40FA-A236-64095581783A}|SignalR\\SignalR.csproj|solutionrelative:signalr\\chat.html||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{0DE91821-4D6D-40FA-A236-64095581783A}|SignalR\\SignalR.csproj|c:\\users\\amro7\\desktop\\training csharp\\signalr\\signalr\\chathub.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{0DE91821-4D6D-40FA-A236-64095581783A}|SignalR\\SignalR.csproj|solutionrelative:signalr\\chathub.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 1,
+          "Children": [
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "chat.html",
+              "DocumentMoniker": "C:\\Users\\amro7\\Desktop\\training Csharp\\SignalR\\SignalR\\chat.html",
+              "RelativeDocumentMoniker": "SignalR\\chat.html",
+              "ToolTip": "C:\\Users\\amro7\\Desktop\\training Csharp\\SignalR\\SignalR\\chat.html",
+              "RelativeToolTip": "SignalR\\chat.html",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.001512|",
+              "WhenOpened": "2024-09-22T16:07:37.344Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "Program.cs",
+              "DocumentMoniker": "C:\\Users\\amro7\\Desktop\\training Csharp\\SignalR\\SignalR\\Program.cs",
+              "RelativeDocumentMoniker": "SignalR\\Program.cs",
+              "ToolTip": "C:\\Users\\amro7\\Desktop\\training Csharp\\SignalR\\SignalR\\Program.cs",
+              "RelativeToolTip": "SignalR\\Program.cs",
+              "ViewState": "AgIAAAsAAAAAAAAAAAAcwCAAAAAsAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-09-22T10:43:52.33Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 3,
+              "Title": "ChatHub.cs",
+              "DocumentMoniker": "C:\\Users\\amro7\\Desktop\\training Csharp\\SignalR\\SignalR\\ChatHub.cs",
+              "RelativeDocumentMoniker": "SignalR\\ChatHub.cs",
+              "ToolTip": "C:\\Users\\amro7\\Desktop\\training Csharp\\SignalR\\SignalR\\ChatHub.cs",
+              "RelativeToolTip": "SignalR\\ChatHub.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAkAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-09-22T10:31:58.99Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "Startup.cs",
+              "DocumentMoniker": "C:\\Users\\amro7\\Desktop\\training Csharp\\SignalR\\SignalR\\Startup.cs",
+              "RelativeDocumentMoniker": "SignalR\\Startup.cs",
+              "ToolTip": "C:\\Users\\amro7\\Desktop\\training Csharp\\SignalR\\SignalR\\Startup.cs",
+              "RelativeToolTip": "SignalR\\Startup.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAABQAAAAzAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-09-22T10:25:49.377Z",
+              "EditorCaption": ""
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}
